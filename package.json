@@ -1,0 +1,22 @@
+{
+  "name": "hyper-crt-theme",
+  "version": "1.0.0",
+  "description": "makes your terminal look old-school",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelshumshum/hyper-crt-theme.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper-theme",
+    "crt",
+    "retro"
+  ],
+  "bugs": {
+    "url": "https://github.com/michaelshumshum/hyper-crt-theme/issues"
+  },
+  "homepage": "https://github.com/michaelshumshum/hyper-crt-theme#readme"
+}
