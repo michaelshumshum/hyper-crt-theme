@@ -20,7 +20,15 @@ crt: {
   ]
 },
 ```
-without this step, nothing will load.
+and in the `plugins` array, add `hyper-crt-them` like this:
+```
+plugins: [
+    ...
+    'hyper-crt-theme',
+    ...
+]
+```
+without these steps, the theme will not load.
 
 ## configuration
 you can remove any of the effects by removing it from the array you added above. the order of the effects doesn't matter.
